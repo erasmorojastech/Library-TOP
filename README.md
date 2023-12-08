@@ -16,3 +16,6 @@ This project is created using:
 
 ## Project status
 In process...
+
+## Live Preview
+[Library](https://mylibrary-project.netlify.app/)
