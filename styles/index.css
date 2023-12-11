@@ -1,12 +1,5 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    height: 100vh;
-}
-
-h1 {
-    font-size: 40px;
+#main-title {
+    text-align: center;
+    font-size: 24pt;
     font-weight: 700;
 }
